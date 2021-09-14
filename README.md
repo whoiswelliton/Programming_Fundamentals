@@ -3,7 +3,7 @@
 >### 1. All the codes were developed at UTFPR-PB during the class:
 - **FP21NB - Fundamentos de Programação**
 ---
->### 2. Studied Subjects:
+>### 2. Subjects:
 >
 - **Sequencial Structures**
 - **Decision Structures**
