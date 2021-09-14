@@ -1,7 +1,16 @@
 # Programming Fundamentals Repository
 
->All the codes were developed at UTFPR-PB during the class:
+>### 1. All the codes were developed at UTFPR-PB during the class:
 - **FP21NB - Fundamentos de Programação**
-
->Programming Language:
+---
+>### 2. Studied Subjects:
+>
+- **Sequencial Structures**
+- **Decision Structures**
+- **Repetition Structures**
+- **Vectors**
+- **Matrices**
+- **Functions**
+---
+>### 3. Programming Languages:
 - **C**
